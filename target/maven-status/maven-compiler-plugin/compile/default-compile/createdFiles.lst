@@ -1,0 +1,5 @@
+pl\polsl\lab\dcieslik\tictactoe\model\WinnerChecker.class
+pl\polsl\lab\dcieslik\tictactoe\model\Game.class
+pl\polsl\lab\dcieslik\tictactoe\exceptions\InvalidNameException.class
+pl\polsl\lab\dcieslik\tictactoe\model\Player.class
+pl\polsl\lab\dcieslik\tictactoe\servlets\GameServlet.class
